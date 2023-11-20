@@ -8,7 +8,7 @@ const productos = [
             nombre: "Productos",
             id: "pcgamer"
         },
-        precio: "USD 600"
+        precio: "$800.000.-"
     },
 
     {
@@ -19,7 +19,7 @@ const productos = [
             nombre: "Productos",
             id: "notebook"
         },
-        precio: "USD 700"
+        precio: "$500.000.-"
     },
     {
         id: "producto-03",
@@ -29,7 +29,7 @@ const productos = [
             nombre: "Productos",
             id: "notebook"
         },
-        precio: "USD 120"
+        precio: "$150.000.-"
     },
     {
         id: "producto-04",
@@ -37,9 +37,9 @@ const productos = [
         imagen: "../img/TecladoGamer.png",
         categoria: {
             nombre: "Productos",
-            id: "notebook"
+            id: "tecladogamer"
         },
-        precio: "USD 80"
+        precio: "$80.000.-"
     },
     {
         id: "producto-05",
@@ -49,7 +49,7 @@ const productos = [
             nombre: "Productos",
             id: "mousegamer"
         },
-        precio: "USD 60"
+        precio: "$65.000.-"
     },
     {
         id: "producto-06",
@@ -59,7 +59,7 @@ const productos = [
             nombre: "Productos",
             id: "pendrive"
         },
-        precio: "USD 10"
+        precio: "$5.000.-"
     },
     {
         id: "producto-07",
@@ -69,7 +69,7 @@ const productos = [
             nombre: "Productos",
             id: "parlantes"
         },
-        precio: "USD 200"
+        precio: "$120.000.-"
     },
     {
         id: "producto-08",
@@ -77,9 +77,9 @@ const productos = [
         imagen: "../img/CamaraSeguridad.png",
         categoria: {
             nombre: "Productos",
-            id: "parlantes"
+            id: "camarawifi"
         },
-        precio: "USD 100"
+        precio: "$50.000.-"
     },
 
 
