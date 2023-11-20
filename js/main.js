@@ -3,7 +3,7 @@ const productos = [
     {
         id: "producto-01",
         titulo: "PC Gamer",
-        imagen: "../img/PcGamer.png",
+        imagen: "./img/PcGamer.png",
         categoria: {
             nombre: "Productos",
             id: "pcgamer"
@@ -14,7 +14,7 @@ const productos = [
     {
         id: "producto-02",
         titulo: "Notebook",
-        imagen: "../img/notebook.png",
+        imagen: "./img/notebook.png",
         categoria: {
             nombre: "Productos",
             id: "notebook"
@@ -24,7 +24,7 @@ const productos = [
     {
         id: "producto-03",
         titulo: "Silla Gamer",
-        imagen: "../img/SillaGamer.png",
+        imagen: "./img/SillaGamer.png",
         categoria: {
             nombre: "Productos",
             id: "notebook"
@@ -34,7 +34,7 @@ const productos = [
     {
         id: "producto-04",
         titulo: "Teclado",
-        imagen: "../img/TecladoGamer.png",
+        imagen: "./img/TecladoGamer.png",
         categoria: {
             nombre: "Productos",
             id: "tecladogamer"
@@ -44,7 +44,7 @@ const productos = [
     {
         id: "producto-05",
         titulo: "Mouse Gamer",
-        imagen: "../img/mousegamer.png",
+        imagen: "./img/mousegamer.png",
         categoria: {
             nombre: "Productos",
             id: "mousegamer"
@@ -54,7 +54,7 @@ const productos = [
     {
         id: "producto-06",
         titulo: "Pendrive",
-        imagen: "../img/pendrive.png",
+        imagen: "./img/pendrive.png",
         categoria: {
             nombre: "Productos",
             id: "pendrive"
@@ -64,7 +64,7 @@ const productos = [
     {
         id: "producto-07",
         titulo: "Parlantes",
-        imagen: "../img/parlantes.png",
+        imagen: "./img/parlantes.png",
         categoria: {
             nombre: "Productos",
             id: "parlantes"
@@ -74,7 +74,7 @@ const productos = [
     {
         id: "producto-08",
         titulo: "Camara Wifi",
-        imagen: "../img/CamaraSeguridad.png",
+        imagen: "./img/CamaraSeguridad.png",
         categoria: {
             nombre: "Productos",
             id: "camarawifi"
