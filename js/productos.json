@@ -1,0 +1,82 @@
+[
+    {
+        "id": "producto-01",
+        "titulo": "PC Gamer",
+        "imagen": "./img/PcGamer.png",
+        "categoria": {
+            "nombre": "Productos",
+            "id": "todos"
+        },
+        "precio": "800.00"
+    },
+    {
+        "id": "producto-02",
+        "titulo": "Notebook",
+        "imagen": "./img/notebook.png",
+        "categoria": {
+            "nombre": "Productos",
+            "id": "todos"
+        },
+        "precio": "500.00"
+    },
+    {
+        "id": "producto-03",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/SillaGamer.png",
+        "categoria": {
+            "nombre": "Productos",
+            "id": "ofertas"
+        },
+        "precio": "150.00"
+    },
+    {
+        "id": "producto-04",
+        "titulo": "Teclado",
+        "imagen": "./img/TecladoGamer.png",
+        "categoria": {
+            "nombre": "Productos",
+            "id": "ofertas"
+        },
+        "precio": "80.00"
+    },
+    {
+        "id": "producto-05",
+        "titulo": "Mouse Gamer",
+        "imagen": "./img/mousegamer.png",
+        "categoria": {
+            "nombre": "Productos",
+           "id": "ofertas"
+        },
+        "precio": "65.00"
+    },
+    {
+        "id": "producto-06",
+        "titulo": "Pendrive",
+        "imagen": "./img/pendrive.png",
+        "categoria": {
+            "nombre": "Productos",
+           "id": "ofertas"
+        },
+        "precio": "5.000"
+    },
+    {
+        "id": "producto-07",
+        "titulo": "Parlantes",
+        "imagen": "./img/parlantes.png",
+        "categoria": {
+            "nombre": "Productos",
+            "id": "parlantes"
+        },
+        "precio": "120.00"
+    },
+    {
+        "id": "producto-08",
+        "titulo": "Camara Wifi",
+        "imagen": "./img/CamaraSeguridad.png",
+        "categoria": {
+            "nombre": "Productos",
+            "id": "camarawifi"
+        },
+        "precio": "50.00"
+    }
+]
