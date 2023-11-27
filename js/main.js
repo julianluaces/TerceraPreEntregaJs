@@ -71,6 +71,7 @@ function actualizarBotonesAgregar() {
     });
 }
 
+
 let productosEnCarrito;
 
 let productosEnCarritoLS = localStorage.getItem("productos-en-carrito");
@@ -81,6 +82,8 @@ if (productosEnCarritoLS) {
 } else {
     productosEnCarrito = [];
 }
+
+
 
 function agregarAlCarrito(e) {
 
@@ -124,3 +127,5 @@ function actualizarNumerito() {
     let nuevoNumerito = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
     numerito.innerText = nuevoNumerito;
 }
+
+

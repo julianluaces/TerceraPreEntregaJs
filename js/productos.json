@@ -65,7 +65,7 @@
         "imagen": "./img/parlantes.png",
         "categoria": {
             "nombre": "Productos",
-            "id": "parlantes"
+            "id": "todos"
         },
         "precio": "120.00"
     },
@@ -75,7 +75,7 @@
         "imagen": "./img/CamaraSeguridad.png",
         "categoria": {
             "nombre": "Productos",
-            "id": "camarawifi"
+            "id": "todos"
         },
         "precio": "50.00"
     }
